@@ -1,5 +1,3 @@
 nginx
 xhofe/alist:latest
-prometheus
-firefox
-ubuntu:latest
+bitnami/prometheus:latest
