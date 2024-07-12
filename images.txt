@@ -3,4 +3,4 @@ xhofe/alist:latest
 bitnami/prometheus:latest
 grafana/grafana:latest
 sulinggg/openwrt:latest
-openwrt:r1000
+openwrt:x86
