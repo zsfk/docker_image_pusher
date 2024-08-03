@@ -1,8 +1,1 @@
-nginx
-xhofe/alist:latest
-bitnami/prometheus:latest
-grafana/grafana:latest
-sulinggg/openwrt:latest
-openwrt:x86
-piaoyizy/openwrt-x86
 osixia/openldap
