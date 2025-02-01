@@ -1,1 +1,1 @@
-linuxserver/sonarr
+movie-db
