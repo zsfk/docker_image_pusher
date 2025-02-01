@@ -1,1 +1,1 @@
-mattermost/focalboard
+ubuntu
