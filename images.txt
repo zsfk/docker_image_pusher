@@ -1,1 +1,1 @@
-webdav-aliyundriver
+webdav-aliyundriver:latest
