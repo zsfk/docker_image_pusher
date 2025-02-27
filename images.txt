@@ -1,1 +1,1 @@
-alpine:latest
+linzeyi/hivision_idphotos
